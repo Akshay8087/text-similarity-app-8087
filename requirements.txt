@@ -1,6 +1,7 @@
-flask
-sentence-transformers
-scikit-learn
-numpy
-pandas
-gunicorn
+flask==2.0.1
+sentence-transformers==2.2.0
+scikit-learn==1.0.2
+numpy==1.21.2
+gunicorn==20.1.0
+torch>=1.6.0
+transformers>=4.0.0
